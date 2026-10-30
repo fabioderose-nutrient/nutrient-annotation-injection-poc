@@ -1,0 +1,862 @@
+[
+  {
+    "date": "2026-01-01",
+    "event_title": "Agreement date",
+    "event_description": "The agreement is dated in 2026; the day and month are left blank.",
+    "event_trigger_string": "THIS AGREEMENT is dated",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 2,
+    "index": 0,
+    "nAppereance": 0,
+    "startIndex": 2,
+    "endIndex": 25,
+    "time": null
+  },
+  {
+    "date": "2026-12-31",
+    "event_title": "Planning Longstop Date",
+    "event_description": "Date by which the Planning Condition must be satisfied.",
+    "event_trigger_string": "31 December 2026",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 3,
+    "index": 1,
+    "nAppereance": 0,
+    "startIndex": 284,
+    "endIndex": 300,
+    "time": null
+  },
+  {
+    "date": "2026-12-31",
+    "event_title": "Termination for planning failure",
+    "event_description": "Either party may terminate if the Planning Condition is not satisfied by the Planning Longstop Date.",
+    "event_trigger_string": "If the Planning Condition has not been satisfied by the Planning Longstop Date",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 4,
+    "index": 2,
+    "nAppereance": 0,
+    "startIndex": 8,
+    "endIndex": 86,
+    "time": null
+  },
+  {
+    "date": "",
+    "event_title": "Notice of planning satisfaction",
+    "event_description": "Landlord notifies the Tenant within five Working Days after the Planning Condition is satisfied.",
+    "event_trigger_string": "within five Working Days after the Planning Condition",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 4,
+    "index": 3,
+    "nAppereance": 0,
+    "startIndex": 281,
+    "endIndex": 335,
+    "time": null
+  },
+  {
+    "date": "",
+    "event_title": "Start of the Landlord's Works",
+    "event_description": "Works to start within six weeks after the Planning Condition is satisfied.",
+    "event_trigger_string": "start within six weeks after the date on which the Planning Condition is satisfied",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 4,
+    "index": 4,
+    "nAppereance": 0,
+    "startIndex": 756,
+    "endIndex": 839,
+    "time": null
+  },
+  {
+    "date": "2027-06-30",
+    "event_title": "Target Handover Date (definition)",
+    "event_description": "Defined term.",
+    "event_trigger_string": "30 June 2027",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 3,
+    "index": 5,
+    "nAppereance": 0,
+    "startIndex": 859,
+    "endIndex": 871,
+    "time": null
+  },
+  {
+    "date": "2027-06-30",
+    "event_title": "Target Handover Date (Practical Completion)",
+    "event_description": "Landlord to use reasonable endeavours to achieve Practical Completion by the Target Handover Date.",
+    "event_trigger_string": "Target Handover Date",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 4,
+    "index": 6,
+    "nAppereance": 0,
+    "startIndex": 963,
+    "endIndex": 983,
+    "time": null
+  },
+  {
+    "date": "2027-06-30",
+    "event_title": "Target Handover Date (delay)",
+    "event_description": "Rent-free period extended day for day after the Target Handover Date.",
+    "event_trigger_string": "Target Handover Date",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 5,
+    "index": 7,
+    "nAppereance": 1,
+    "startIndex": 1714,
+    "endIndex": 1734,
+    "time": null
+  },
+  {
+    "date": "2028-03-31",
+    "event_title": "Longstop Date (definition)",
+    "event_description": "Defined term.",
+    "event_trigger_string": "31 March 2028",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 3,
+    "index": 8,
+    "nAppereance": 0,
+    "startIndex": 182,
+    "endIndex": 195,
+    "time": null
+  },
+  {
+    "date": "2028-03-31",
+    "event_title": "Tenant termination at Longstop Date",
+    "event_description": "Tenant may terminate if the Handover Date has not occurred by the Longstop Date.",
+    "event_trigger_string": "If the Handover Date has not occurred by the Longstop Date",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 5,
+    "index": 9,
+    "nAppereance": 0,
+    "startIndex": 1969,
+    "endIndex": 2027,
+    "time": null
+  },
+  {
+    "date": "",
+    "event_title": "Longstop Date extension",
+    "event_description": "Force majeure extends the Longstop Date by up to ninety days.",
+    "event_trigger_string": "up to a maximum of ninety days",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 5,
+    "index": 10,
+    "nAppereance": 0,
+    "startIndex": 2263,
+    "endIndex": 2293,
+    "time": null
+  },
+  {
+    "date": "2027-05-05",
+    "event_title": "Access Date",
+    "event_description": "Tenant access for fit-out preparation eight weeks before the Target Handover Date.",
+    "event_trigger_string": "the date eight weeks before the Target Handover Date",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 2,
+    "index": 11,
+    "nAppereance": 0,
+    "startIndex": 992,
+    "endIndex": 1044,
+    "time": null
+  },
+  {
+    "date": "",
+    "event_title": "Practical Completion inspection notice",
+    "event_description": "Ten Working Days' notice of the inspection.",
+    "event_trigger_string": "at least ten Working Days' notice",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 5,
+    "index": 12,
+    "nAppereance": 0,
+    "startIndex": 293,
+    "endIndex": 326,
+    "time": null
+  },
+  {
+    "date": "",
+    "event_title": "Snagging period",
+    "event_description": "Snagging Items remedied within twenty Working Days after the Handover Date.",
+    "event_trigger_string": "within twenty Working Days after the Handover Date",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 5,
+    "index": 13,
+    "nAppereance": 0,
+    "startIndex": 1048,
+    "endIndex": 1099,
+    "time": null
+  },
+  {
+    "date": "",
+    "event_title": "Handover Date",
+    "event_description": "Vacant possession given on the Handover Date.",
+    "event_trigger_string": "vacant possession of the Property to the Tenant on the Handover Date",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 5,
+    "index": 14,
+    "nAppereance": 0,
+    "startIndex": 1471,
+    "endIndex": 1539,
+    "time": null
+  },
+  {
+    "date": "",
+    "event_title": "Start of the Tenant's Works",
+    "event_description": "Within eight weeks after the Handover Date.",
+    "event_trigger_string": "within eight weeks after the Handover Date",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 5,
+    "index": 15,
+    "nAppereance": 0,
+    "startIndex": 2556,
+    "endIndex": 2598,
+    "time": null
+  },
+  {
+    "date": "",
+    "event_title": "Completion of the Tenant's Works",
+    "event_description": "Within twenty-six weeks after the Handover Date.",
+    "event_trigger_string": "within twenty-six weeks after the Handover Date",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 5,
+    "index": 16,
+    "nAppereance": 0,
+    "startIndex": 2657,
+    "endIndex": 2704,
+    "time": null
+  },
+  {
+    "date": "",
+    "event_title": "Lease Date",
+    "event_description": "Lease granted on the Handover Date or within five Working Days after it.",
+    "event_trigger_string": "within five Working Days after it",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 6,
+    "index": 17,
+    "nAppereance": 0,
+    "startIndex": 266,
+    "endIndex": 300,
+    "time": null
+  },
+  {
+    "date": "",
+    "event_title": "Rent Commencement Date",
+    "event_description": "Nine months after the Lease Date.",
+    "event_trigger_string": "the date nine months after the Lease Date",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 3,
+    "index": 18,
+    "nAppereance": 0,
+    "startIndex": 562,
+    "endIndex": 603,
+    "time": null
+  },
+  {
+    "date": "",
+    "event_title": "Term",
+    "event_description": "Fifteen years from and including the Lease Date.",
+    "event_trigger_string": "fifteen years from and including the Lease Date",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 3,
+    "index": 19,
+    "nAppereance": 0,
+    "startIndex": 1113,
+    "endIndex": 1160,
+    "time": null
+  },
+  {
+    "date": "",
+    "event_title": "Rent review dates",
+    "event_description": "Fifth and tenth anniversaries of the Lease Date.",
+    "event_trigger_string": "the fifth and tenth anniversaries of the Lease Date",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 6,
+    "index": 20,
+    "nAppereance": 0,
+    "startIndex": 432,
+    "endIndex": 483,
+    "time": null
+  },
+  {
+    "date": "",
+    "event_title": "Break date",
+    "event_description": "Tenant break on the tenth anniversary on twelve months' notice.",
+    "event_trigger_string": "on the tenth anniversary of the Lease Date",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 6,
+    "index": 21,
+    "nAppereance": 0,
+    "startIndex": 526,
+    "endIndex": 568,
+    "time": null
+  },
+  {
+    "date": "",
+    "event_title": "Break notice",
+    "event_description": "Not less than twelve months' written notice.",
+    "event_trigger_string": "not less than twelve months' written notice",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 6,
+    "index": 22,
+    "nAppereance": 0,
+    "startIndex": 593,
+    "endIndex": 636,
+    "time": null
+  },
+  {
+    "date": "",
+    "event_title": "Rent Deposit paid",
+    "event_description": "Rent Deposit paid on the Lease Date.",
+    "event_trigger_string": "shall pay the Rent Deposit to the Landlord on the Lease Date",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 6,
+    "index": 23,
+    "nAppereance": 0,
+    "startIndex": 795,
+    "endIndex": 855,
+    "time": null
+  },
+  {
+    "date": "",
+    "event_title": "Defects Liability Period (definition)",
+    "event_description": "Twelve months from the Handover Date.",
+    "event_trigger_string": "the period of twelve months starting on the Handover Date",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 2,
+    "index": 24,
+    "nAppereance": 0,
+    "startIndex": 1745,
+    "endIndex": 1802,
+    "time": null
+  },
+  {
+    "date": "",
+    "event_title": "Urgent defects",
+    "event_description": "Urgent defects remedied within forty-eight hours.",
+    "event_trigger_string": "within forty-eight hours",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 6,
+    "index": 25,
+    "nAppereance": 0,
+    "startIndex": 1429,
+    "endIndex": 1453,
+    "time": null
+  },
+  {
+    "date": "",
+    "event_title": "Collateral warranties",
+    "event_description": "Warranties within twenty Working Days after the Handover Date.",
+    "event_trigger_string": "within twenty Working Days after the Handover",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 6,
+    "index": 26,
+    "nAppereance": 0,
+    "startIndex": 1914,
+    "endIndex": 1959,
+    "time": null
+  },
+  {
+    "date": "",
+    "event_title": "PI insurance period",
+    "event_description": "Professional indemnity insurance for twelve years after Practical Completion.",
+    "event_trigger_string": "for twelve years after Practical Completion",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 6,
+    "index": 27,
+    "nAppereance": 0,
+    "startIndex": 2202,
+    "endIndex": 2245,
+    "time": null
+  },
+  {
+    "date": "",
+    "event_title": "Termination for breach",
+    "event_description": "Remedy period of twenty Working Days.",
+    "event_trigger_string": "Either party may terminate this Agreement by notice to the other",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 7,
+    "index": 28,
+    "nAppereance": 0,
+    "startIndex": 168,
+    "endIndex": 232,
+    "time": null
+  },
+  {
+    "date": "",
+    "event_title": "Termination for insolvency",
+    "event_description": "Either party may terminate on insolvency.",
+    "event_trigger_string": "Either party may terminate this Agreement by notice to the other",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 7,
+    "index": 29,
+    "nAppereance": 1,
+    "startIndex": 398,
+    "endIndex": 462,
+    "time": null
+  },
+  {
+    "date": "",
+    "event_title": "Removal after termination",
+    "event_description": "Tenant removes its property within ten Working Days.",
+    "event_trigger_string": "within ten Working Days and shall make good",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 7,
+    "index": 30,
+    "nAppereance": 0,
+    "startIndex": 737,
+    "endIndex": 780,
+    "time": null
+  },
+  {
+    "date": "",
+    "event_title": "Notice by recorded delivery",
+    "event_description": "Deemed given on the second Working Day after posting.",
+    "event_trigger_string": "on the second Working Day after posting",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 7,
+    "index": 31,
+    "nAppereance": 0,
+    "startIndex": 1177,
+    "endIndex": 1216,
+    "time": null
+  },
+  {
+    "date": "",
+    "event_title": "Variation estimate",
+    "event_description": "Landlord responds to a variation request within ten Working Days.",
+    "event_trigger_string": "The Landlord shall respond within ten Working Days",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 4,
+    "index": 32,
+    "nAppereance": 0,
+    "startIndex": 2103,
+    "endIndex": 2154,
+    "time": null
+  },
+  {
+    "date": "",
+    "event_title": "Variation payment",
+    "event_description": "Tenant pays within twenty Working Days after demand.",
+    "event_trigger_string": "within twenty Working Days after written demand",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 4,
+    "index": 33,
+    "nAppereance": 0,
+    "startIndex": 2335,
+    "endIndex": 2383,
+    "time": null
+  },
+  {
+    "date": "",
+    "event_title": "Confidentiality period",
+    "event_description": "Two years after the Lease Date or earlier termination.",
+    "event_trigger_string": "for a period of two years after the Lease Date",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 8,
+    "index": 34,
+    "nAppereance": 0,
+    "startIndex": 952,
+    "endIndex": 999,
+    "time": null
+  },
+  {
+    "date": "",
+    "event_title": "Rent deposit release",
+    "event_description": "Third anniversary of the Lease Date.",
+    "event_trigger_string": "released on the third anniversary of the Lease Date",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 14,
+    "index": 35,
+    "nAppereance": 0,
+    "startIndex": 805,
+    "endIndex": 856,
+    "time": null
+  },
+  {
+    "date": "",
+    "event_title": "Rent-free period",
+    "event_description": "Nine months from the Lease Date.",
+    "event_trigger_string": "Nine months from the Lease Date",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 14,
+    "index": 36,
+    "nAppereance": 0,
+    "startIndex": 218,
+    "endIndex": 249,
+    "time": null
+  },
+  {
+    "date": "2032-07-01",
+    "event_title": "Rent review (year 6)",
+    "event_description": "First rent review in lease year 6.",
+    "event_trigger_string": "Rent review",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 15,
+    "index": 37,
+    "nAppereance": 0,
+    "startIndex": 545,
+    "endIndex": 556,
+    "time": null
+  },
+  {
+    "date": "2037-07-01",
+    "event_title": "Rent review (year 11)",
+    "event_description": "Second rent review in lease year 11.",
+    "event_trigger_string": "Rent review",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 15,
+    "index": 38,
+    "nAppereance": 1,
+    "startIndex": 760,
+    "endIndex": 771,
+    "time": null
+  },
+  {
+    "date": "2027-06-28",
+    "event_title": "Programme: Practical Completion inspection",
+    "event_description": "Planned for 28 and 29 June 2027.",
+    "event_trigger_string": "Practical Completion inspection",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 16,
+    "index": 39,
+    "nAppereance": 0,
+    "startIndex": 812,
+    "endIndex": 843,
+    "time": null
+  },
+  {
+    "date": "2027-05-05",
+    "event_title": "Programme: Tenant access for data cabling",
+    "event_description": "5 May 2027 to 30 June 2027.",
+    "event_trigger_string": "Tenant access for data cabling",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 16,
+    "index": 40,
+    "nAppereance": 0,
+    "startIndex": 620,
+    "endIndex": 650,
+    "time": null
+  },
+  {
+    "date": "2027-06-30",
+    "event_title": "Programme: Target Handover Date",
+    "event_description": "Last line of the programme.",
+    "event_trigger_string": "Target Handover Date",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 16,
+    "index": 41,
+    "nAppereance": 2,
+    "startIndex": 877,
+    "endIndex": 897,
+    "time": null
+  },
+  {
+    "date": "",
+    "event_title": "Monthly progress reports",
+    "event_description": "Copies within five Working Days after receipt.",
+    "event_trigger_string": "within five Working Days after receiving it",
+    "persons": [
+      {
+        "name": "Fernhollow Properties Limited"
+      },
+      {
+        "name": "Brightquay Studios Limited"
+      }
+    ],
+    "page_nr": 4,
+    "index": 42,
+    "nAppereance": 0,
+    "startIndex": 1348,
+    "endIndex": 1391,
+    "time": null
+  }
+]

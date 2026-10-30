@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Annotation Injection PoC</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="styles.css">
+<script src="https://cdn.cloud.pspdfkit.com/pspdfkit-web@2024.8.1/pspdfkit.js"></script>
+</head>
+<body>
+<div id="app">
+  <aside id="sidebar">
+    <h1>Annotation injection</h1>
+    <p class="sub">LLM events positioned and highlighted by Document Engine</p>
+    <button id="load-doc-btn">Load document (PDF)</button>
+    <input type="file" id="doc-file" accept="application/pdf,.pdf" hidden>
+    <label for="payload-select">Sample LLM output</label>
+    <select id="payload-select"></select>
+    <label for="llm-json">LLM output (editable JSON)</label>
+    <textarea id="llm-json" spellcheck="false"></textarea>
+    <div id="json-error"></div>
+    <button id="process-btn">Process LLM output</button>
+    <div id="results"></div>
+  </aside>
+  <main id="viewer"></main>
+</div>
+<script src="app.js"></script>
+</body>
+</html>

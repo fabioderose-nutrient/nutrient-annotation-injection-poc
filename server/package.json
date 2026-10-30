@@ -1,0 +1,17 @@
+{
+  "name": "annotation-injection-poc-server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file=../.env --env-file=../keys/app.env server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.0",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "description": "Server-side annotation injection with smart positioning on Nutrient Document Engine",
+  "engines": {
+    "node": ">=22"
+  }
+}

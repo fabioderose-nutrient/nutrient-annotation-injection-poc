@@ -1,0 +1,84 @@
+{
+  "events": [
+    {
+      "id": "evt-longstop",
+      "title": "Longstop Date",
+      "date": "2028-03-31",
+      "description": "Unique text: found once, highlighted directly.",
+      "page": 6,
+      "occurrence": 1,
+      "text": "If the Handover Date has not occurred by the Longstop Date, the Tenant may terminate this Agreement",
+      "color": "#FFD54F"
+    },
+    {
+      "id": "evt-termination-insolvency",
+      "title": "Termination on insolvency",
+      "date": null,
+      "description": "The same sentence opening appears several times in the contract. The pipeline gives the page and the occurrence number on that page.",
+      "page": 8,
+      "occurrence": 2,
+      "text": "Either party may terminate this Agreement by notice to the other",
+      "color": "#4FC3F7"
+    },
+    {
+      "id": "evt-delay",
+      "title": "Rent-free extension for delay",
+      "date": "2027-06-30",
+      "description": "A defined term repeated on many pages, sent without page or occurrence number: the surrounding text (context) picks the right one.",
+      "page": null,
+      "occurrence": null,
+      "context": {
+        "before": "the rent-free period under the Lease shall be extended by one day for each day of delay after the",
+        "after": "until the Handover Date"
+      },
+      "text": "Target Handover Date",
+      "color": "#81C784"
+    },
+    {
+      "id": "evt-page-break",
+      "title": "Insurance (crosses a page break)",
+      "date": null,
+      "description": "One long sentence that starts at the bottom of one page and ends on the next.",
+      "page": 7,
+      "occurrence": 1,
+      "text": "If the Landlord's Works are damaged by an insured risk before the Handover Date, the Landlord shall reinstate them with all reasonable speed, and the Target Handover Date and the Longstop Date shall be extended accordingly.",
+      "color": "#F48FB1"
+    },
+    {
+      "id": "evt-warranties-paraphrased",
+      "title": "Collateral warranties (paraphrased)",
+      "date": null,
+      "description": "The LLM paraphrased the clause: only part of its text matches the document.",
+      "page": 7,
+      "occurrence": 1,
+      "text": "The Landlord must make sure that the Contractor and each consultant with a design responsibility gives a collateral warranty to the Tenant in the Agreed Form",
+      "color": "#FF8A65"
+    },
+    {
+      "id": "evt-penalty-hallucinated",
+      "title": "Late handover penalty (hallucinated)",
+      "date": null,
+      "description": "The LLM invented this clause. The text exists nowhere in the document and there is no fallback data, so the event is flagged as unresolved instead of highlighting the wrong passage.",
+      "page": 6,
+      "occurrence": 1,
+      "text": "The Landlord shall pay the Tenant a penalty of £5,000 per day of delay",
+      "color": "#B39DDB"
+    },
+    {
+      "id": "evt-coordinates-fallback",
+      "title": "Signature block (coordinates only)",
+      "date": null,
+      "description": "The text does not match, but the pipeline sent coordinates: a rectangle is drawn there.",
+      "page": 32,
+      "occurrence": 1,
+      "text": "Signed by the authorised signatory of the Landlord",
+      "coordinates": {
+        "left": 60,
+        "top": 110,
+        "width": 470,
+        "height": 120
+      },
+      "color": "#4DB6AC"
+    }
+  ]
+}
